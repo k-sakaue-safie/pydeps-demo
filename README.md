@@ -5,6 +5,7 @@
 
 ```zsh
 $ uv sync
+$ source .venv/bin/activate
 ```
 
 ## Run
